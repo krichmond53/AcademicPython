@@ -1,0 +1,6 @@
+bar	[[6, "As", "blue"], [7, "Bs", "yellow"], [4, "Cs", "green"], [2, "Fs", "red"]]	300	200
+pie	[[400, "pass", "green"], [200, "fail", "yellow"]]	240	200
+bar	[[40, "CS", "red"], [30, "IS", "blue"], [50, "IT", "yellow"]]	200	100
+pie	[[140, "Freshman", "red"], [130, "Sophomore", "blue"], [150, "Junior", "yellow"], [80, "Senior", "green"]]	240	200
+bar	[[20, "2016", "blue"], [24, "2017", "yellow"], [22, "2018", "green"]]	300	200
+pie	[[150, "Monday", "black"], [200, "Tuesday", "yellow"], [100, "Wednesday", "blue"], [300, "Thursday", "red"], [250, "Friday", "green"]]	240	200
